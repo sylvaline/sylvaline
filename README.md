@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sylvaline
 - 👀 I’m interested in getting a computer science degree.
-- 🌱 I’m currently learning web3.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 okekesylvaline80@gmail.com
 
