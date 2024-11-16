@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sylvaline
-- 👀 I’m interested in getting a computer science degree.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in becoming an AI Engineer.
+- 🌱 I’m currently unlearning and relearning Typescript.
 - 💞️ I’m looking to collaborate on any open source project.
-- 📫 okekesylvaline80@gmail.com
+- 📫 kosisochukwusylva@gmail.com
 
 <!---
 sylvaline/sylvaline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
